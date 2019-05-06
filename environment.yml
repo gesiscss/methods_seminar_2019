@@ -1,4 +1,4 @@
-name: methods_seminar_2019_env
+name: methods_seminar_2019-env
 channels:
   - defaults
   - conda-forge

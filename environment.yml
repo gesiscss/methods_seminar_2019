@@ -11,4 +11,5 @@ dependencies:
   - scikit-learn
   - numpy
   - pandas
+  - powerlaw
 - graph-tool>=2.27

@@ -5,11 +5,11 @@ channels:
   - ostrokach-forge
   - pkgw-forge
 dependencies:
-  - python
   - pygobject
   - matplotlib
   - scikit-learn
   - numpy
   - pandas
-  - powerlaw
   - graph-tool>=2.27
+  - pip:
+    - powerlaw

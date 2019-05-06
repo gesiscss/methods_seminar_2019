@@ -1,0 +1,15 @@
+name: methods_seminar_2019_env
+channels:
+  - defaults
+  - conda-forge
+  - ostrokach-forge
+  - pkgw-forge
+dependencies:
+  - python
+  - pygobject
+  - matplotlib
+  - scikit-learn
+  - numpy
+  - pandas
+  - powerlaw
+- graph-tool>=2.27

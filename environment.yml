@@ -12,4 +12,4 @@ dependencies:
   - numpy
   - pandas
   - powerlaw
-- graph-tool>=2.27
+  - graph-tool>=2.27

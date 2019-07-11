@@ -1,0 +1,8 @@
+party_id	party	faction	faction_engl
+0	CDU	CDU/CSU	CDU/CSU
+1	CSU	CDU/CSU	CDU/CSU
+2	Die Grünen	Die Grünen	Greens
+3	Die Linke	Die Linke	Left
+4	FDP	FDP	FDP
+5	Piratenpartei	Piratenpartei	Pirates
+6	SPD	SPD	SPD

@@ -1,0 +1,6 @@
+domain_id	domain	domain_name
+0	CSS	Computational Social Science
+1	ECON_SOC	Economic Sociology
+2	NET_SCI	Network Science
+3	SNA	Social Network Analysis
+4	SPE	Social Psychology & Epidemiology

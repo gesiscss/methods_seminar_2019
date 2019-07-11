@@ -10,7 +10,7 @@ dependencies:
   - scikit-learn
   - numpy
   - pandas
-  - networkx
+  - networkx=2.2
   - graph-tool>=2.27
   - pip:
     - powerlaw

@@ -14,3 +14,4 @@ dependencies:
   - graph-tool>=2.27
   - pip:
     - powerlaw
+    - python-louvain  

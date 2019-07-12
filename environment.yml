@@ -12,7 +12,7 @@ dependencies:
   - pandas
   - networkx=2.2
   - graph-tool>=2.27
-  - libcairomm-1.0-dev
+  - libcairomm
   - pip:
     - powerlaw
     - python-louvain  

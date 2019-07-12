@@ -12,6 +12,8 @@ dependencies:
   - pandas
   - networkx=2.2
   - graph-tool>=2.27
+  - cairo>=1.14
+  - cairomm>=1.14
   - pycairo
   - pip:
     - powerlaw

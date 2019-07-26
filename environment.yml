@@ -5,6 +5,7 @@ channels:
   - ostrokach-forge
   - pkgw-forge
 dependencies:
+  - python=3.6
   - pygobject
   - matplotlib
   - scikit-learn
